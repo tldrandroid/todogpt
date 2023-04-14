@@ -5,5 +5,6 @@ I’m going to throw away my engineering hat and build an entire Android app in 
 - [Video](https://youtu.be/Ccbx765Gt1U)
 - Start tag: [link](releases/tag/start)
 - Finish tag: [link](releases/tag/finish)
+- ChatGPT prompts: [link](https://tldr.st/Y)
 
 ![YouTube Video Thumbnail](.docs/Thumbnail.jpg)
